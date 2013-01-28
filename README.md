@@ -1,4 +1,4 @@
 Other
 =====
 
-Other Perl codes
+Other codes
